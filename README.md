@@ -1,4 +1,4 @@
-# This folder contains the code and datasets for OC4Seq
+# Code and datasets for OC4Seq: Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection
 
 ## The code folder contains all the python code
 - exp.py: This is the main experiment script
