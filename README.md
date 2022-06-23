@@ -17,10 +17,10 @@ The `OC4Seq` repository contains code for a multi-scale one-class recurrent neur
 - Haifeng Chen
 - Jiliang Tang
 
-## References
+## Citation
 
-- Zhiwei Wang, Zhengzhang Chen, Jingchao Ni, Hui Liu, Haifeng Chen, Jiliang Tang: Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection. KDD 2021: 3726-3734.
-- BibTex:
+If you find the code in this respository useful for your research, please cite our paper:
+```
   @inproceedings{WangCNLCT21,
   author    = {Zhiwei Wang and
                Zhengzhang Chen and
@@ -36,6 +36,7 @@ The `OC4Seq` repository contains code for a multi-scale one-class recurrent neur
   publisher = {{ACM}},
   year      = {2021}
 }
+```
 
 
 
