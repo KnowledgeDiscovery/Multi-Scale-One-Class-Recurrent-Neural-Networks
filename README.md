@@ -38,5 +38,11 @@ If you find the code in this respository useful for your research, please cite o
 }
 ```
 
+## License
 
+Creative Commons Attribution-NonCommercial (CC BY-NC) 4.0 International License
 
+The OC4Seq is released under a CC BY-NC 4.0 International License:
+https://creativecommons.org/licenses/by-nc/4.0.
+
+NonCommercial — You can not use the code for commercial purposes.
